@@ -1,2 +1,7 @@
 # Gerenciador-de-Projeto
-Trabalho da disciplina de Engenharia de Software.  Gerenciado de projetos de Pesquis, aplicação web e mobile com ionic,  Angular, firebase,
+aplicação web e mobile com ionic,  Angular, firebase,
+Trabalho da disciplina de Engenharia de Software.  
+Gerenciador de projetos de Pesquisa, 
+
+
+Não tem muito padrão de projeto e não é comerciavel. Mas vale o Backup.
